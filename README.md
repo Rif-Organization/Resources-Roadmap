@@ -13,61 +13,28 @@ All the Tarifit related resources that will be aggregated for AI and software pr
 
 ### Text & Parallel Corpus Data
 
-- [ ] Tarifit-English parallel sentences
-- [ ] Tarifit-Arabic parallel sentences
-- [ ] Tarifit-French parallel sentences
-- [ ] Tarifit-Dutch parallel sentences
-- [ ] Monolingual Tarifit text corpus
-- [ ] Tarifit proverbs and sayings collection
-- [ ] Tarifit folk tales and stories
-- [ ] Tarifit poetry and songs lyrics
-- [ ] Religious texts in Tarifit
-- [ ] Tarifit news articles and publications
+- [ ] Curso de Lengua Tamazight Jahfar Hassan Yahia
+- [ ] Manual de Conjugación Rifeña v2.2 páginas con cubiertas
+- [x] Tarifiyt Bible dataset rif ↔ en
 
 ### Dictionary & Lexicon Resources
 
-- [ ] Tarifit-English dictionary entries
-- [ ] Tarifit-Arabic dictionary entries
-- [ ] Tarifit-French dictionary entries
-- [ ] Tarifit word frequency list
-- [ ] Tarifit verb conjugation tables
-- [ ] Tarifit noun declension tables
-- [ ] Tarifit common phrases and expressions
+
 
 ### Audio & Speech Data
 
-- [ ] Native speaker audio recordings
-- [ ] Tarifit pronunciation guides
-- [ ] Tarifit audio-text aligned corpus
-- [ ] Tarifit speech transcriptions
-- [ ] Regional dialect audio samples
+
 
 ### Grammar & Linguistic Resources
 
-- [ ] Tarifit grammar rules documentation
-- [ ] Tarifit alphabet and writing system (Tifinagh, Latin, Arabic scripts)
-- [ ] Tarifit phonology documentation
-- [ ] Tarifit morphology rules
-- [ ] Tarifit syntax patterns
+
 
 ### Learning App Specific Resources
 
-- [ ] Vocabulary lists by category (greetings, numbers, colors, etc.)
-- [ ] Common conversation dialogues
-- [ ] Grammar exercises and quizzes
-- [ ] Flashcard content (word-image pairs)
-- [ ] Spaced repetition word lists
-- [ ] Difficulty-graded reading passages
-- [ ] Interactive lesson content
+
 
 ### Translation Model Specific Resources
 
-- [ ] Sentence-aligned parallel corpus (goal: 50K+ pairs for quality results)
-- [ ] Domain-specific terminology (medical, legal, technical)
-- [ ] Named entity lists (places, names)
-- [ ] Bilingual terminology glossaries
-- [ ] Translation memory files (TMX format)
-- [ ] Quality-validated translation samples
 
 ---
 
@@ -89,7 +56,7 @@ Resources should be compiled into the following formats for AI and software usab
 ## Resource Status Legend
 
 - [ ] Not started / Not collected
-- [x] Collected and formatted
+- [ ] Collected and formatted
 - 🔄 In progress
 - ⚠️ Needs review/verification
 
