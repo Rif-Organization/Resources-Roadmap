@@ -15,9 +15,10 @@ All the Tarifit related resources that will be aggregated for AI and software pr
 
 - [ ] Curso de Lengua Tamazight Jahfar Hassan Yahia
 - [ ] Manual de Conjugación Rifeña v2.2 páginas con cubiertas
-- [x] Tarifiyt Bible dataset rif ↔ en
 
-### Dictionary & Lexicon Resources
+### Dataset resources for NLLB model
+- [x] Tarifit Bible with translations.
+- [x] Random resources (will elobare on this in future readme update)
 
 
 
